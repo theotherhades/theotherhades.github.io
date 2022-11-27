@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Font */
+/* @import url('https://fonts.googleapis.com/css2?family=Alexandria&display=swap'); */
+@font-face {
+    font-family: "Alexandria";
+    src: url("/uh/Alexandria/Alexandria-VariableFont_wght.ttf");
+}
